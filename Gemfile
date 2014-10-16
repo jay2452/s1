@@ -44,7 +44,7 @@ gem 'rails_12factor', group: :production
 group :development do
 	gem 'rspec-rails'
 	gem 'annotate'
-	gem 'faker'
+	#gem 'faker'
 	gem 'sqlite3'
 end
 
